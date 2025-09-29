@@ -1,0 +1,25 @@
+🚀 New Project: Python Automation Toolkit 🛠️  
+
+I recently built a **menu-driven Python project** that combines multiple automation tasks into one program — a small step towards centralizing automation workflows.  
+
+✨ Features included:  
+1️⃣ Post on Instagram (via Zapier/Instabot demo)  
+2️⃣ Send Email (real Gmail SMTP with App Passwords)  
+3️⃣ Send SMS (mock demo)  
+4️⃣ Post on LinkedIn (content saved to Excel → Zapier auto-post)  
+5️⃣ Tweet on Twitter (mock demo)  
+6️⃣ Send WhatsApp Messages (mock demo)  
+
+💡 Why I built this:  
+I wanted to explore how Python could act as a **central automation hub**, bridging different platforms like email, WhatsApp, LinkedIn, and social media.  
+Even though some features are **mock/Zapier-based demos**, email automation is **fully functional**, and the structure makes it easy to extend with real APIs (Twilio, Twitter API v2, Instagram Graph API, etc.).  
+
+🔑 Key Learnings:  
+✔️ Gmail SMTP with App Passwords for secure automation  
+✔️ Excel file integration for LinkedIn + Zapier workflows  
+✔️ Designing extendable menu-driven Python applications  
+
+This project taught me that Python is not just about scripts — it’s about **creating automation ecosystems**.  
+
+
+#Python #Automation #100DaysOfCode #DevOps #APIs #Productivity
